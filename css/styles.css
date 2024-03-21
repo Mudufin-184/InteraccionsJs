@@ -52,6 +52,11 @@ button:hover{
     background: #1f1e1e;
     color: rgb(127, 255, 212);
 }
+button.cerrar{
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
 #figura{
     width: 210px;
     height: 210px;
