@@ -57,6 +57,9 @@ button.cerrar{
     top: 12px;
     right: 12px;
 }
+iframe.video{
+    padding-left: 280px;
+}
 #figura{
     width: 210px;
     height: 210px;
